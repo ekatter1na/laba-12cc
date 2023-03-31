@@ -1,0 +1,15 @@
+D:\учеба\програмки\laba 12cc\bin\Debug\net6.0\laba 12cc.exe
+D:\учеба\програмки\laba 12cc\bin\Debug\net6.0\laba 12cc.deps.json
+D:\учеба\програмки\laba 12cc\bin\Debug\net6.0\laba 12cc.runtimeconfig.json
+D:\учеба\програмки\laba 12cc\bin\Debug\net6.0\laba 12cc.dll
+D:\учеба\програмки\laba 12cc\bin\Debug\net6.0\laba 12cc.pdb
+D:\учеба\програмки\laba 12cc\obj\Debug\net6.0\laba 12cc.csproj.AssemblyReference.cache
+D:\учеба\програмки\laba 12cc\obj\Debug\net6.0\laba 12cc.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\програмки\laba 12cc\obj\Debug\net6.0\laba 12cc.AssemblyInfoInputs.cache
+D:\учеба\програмки\laba 12cc\obj\Debug\net6.0\laba 12cc.AssemblyInfo.cs
+D:\учеба\програмки\laba 12cc\obj\Debug\net6.0\laba 12cc.csproj.CoreCompileInputs.cache
+D:\учеба\програмки\laba 12cc\obj\Debug\net6.0\laba 12cc.dll
+D:\учеба\програмки\laba 12cc\obj\Debug\net6.0\refint\laba 12cc.dll
+D:\учеба\програмки\laba 12cc\obj\Debug\net6.0\laba 12cc.pdb
+D:\учеба\програмки\laba 12cc\obj\Debug\net6.0\laba 12cc.genruntimeconfig.cache
+D:\учеба\програмки\laba 12cc\obj\Debug\net6.0\ref\laba 12cc.dll
